@@ -9,4 +9,7 @@ Trying to learn how to use pure ECS in Unity. Many of the tutorials on youtube a
 # 01-SpawnAndRender
 Sets up bootstrap that creates a bunch of entities, and renders them.
 
+# 02-Archetypes
+Same thing, but uses archetypes when instantiating entities
+
 
