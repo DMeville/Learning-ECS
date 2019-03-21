@@ -12,4 +12,8 @@ Sets up bootstrap that creates a bunch of entities, and renders them.
 # 02-Archetypes
 Same thing, but uses archetypes when instantiating entities
 
+# 03-BasicSystem
+Setting up our first basic system that moves our objects in one direction at a constant speed. Also adds the MovementSpeed component for containing the data needed.
 
+# 04-BasicSystem2
+Same thing, but adding rotation to our system. Testing if it's better to have one system for each rotation and translation, or if it's better to do them both at the same time. 
